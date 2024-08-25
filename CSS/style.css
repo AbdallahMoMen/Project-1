@@ -205,7 +205,7 @@ body {
 
 /* Start landing Section */
 
-.landing .container {
+.landing {
   background-image: url("../Images/landing.jpg");
   background-size: cover;
   height: calc(100vh - 72px);
@@ -372,7 +372,6 @@ body {
 
 .portfolio .container .portfolio-content .port h2 {
   font-size: 50px;
-  margin: 0;
 }
 
 .portfolio .container .portfolio-content .port p {
