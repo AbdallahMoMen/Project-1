@@ -6,7 +6,8 @@ Leon is a free PSD template made by Graphberry. It comes in a modern, flat desig
 
 
 ## Languages and Tools
-- HTML - CSS
+- HTML
+- CSS
 ## Features
 
 - Fully Responsive
